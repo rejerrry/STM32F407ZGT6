@@ -1,0 +1,20 @@
+{
+    "files.associations": {
+        "drv_led.h": "c",
+        "stm32f4xx.h": "c",
+        "system.h": "c",
+        "drv_exti.h": "c",
+        "stdio.h": "c",
+        "drv_uart.h": "c",
+        "drv_iwdg.h": "c",
+        "drv_sys.h": "c",
+        "stdlib.h": "c",
+        "drv_systick.h": "c",
+        "stm32f407xx.h": "c",
+        "drv_wwdg.h": "c",
+        "drv_tftlcd.h": "c",
+        "bsp_system.h": "c",
+        "main.h": "c",
+        "drv_beep.h": "c"
+    }
+}

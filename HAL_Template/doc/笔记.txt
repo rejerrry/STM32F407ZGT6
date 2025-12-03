@@ -1,0 +1,9 @@
+..\libraries\cmsis;
+..\libraries\fwlib\inc;
+..\libraries\fwlib\src;
+..\user;
+..\user\framework\drivers;
+..\user\framework\drivers\tftlcd
+
+
+..\libraries\cmsis;..\libraries\fwlib\inc;..\libraries\fwlib\src;..\user;..\user\framework\drivers;..\user\framework\drivers\tftlcd
