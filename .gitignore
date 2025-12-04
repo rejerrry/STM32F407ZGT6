@@ -1,0 +1,28 @@
+# 1. 编译产生的中间文件 (Objects, Listings 里的内容)
+*.o
+*.d
+*.axf
+*.elf
+*.hex
+*.bin
+*.map
+*.lst
+*.crf
+*.dep
+*.iex
+*.sct
+*.lnp
+*.out
+*.tmp
+
+# 2. Keil IDE 的本地配置与缓存文件
+# 这些文件包含断点、窗口布局、以及用户专属配置，不应共享。
+*.uvoptx
+*.uvguix.*
+*.JLinkLog
+
+# 3. Keil 自动生成的文件夹，一般是存放中间文件
+Objects/
+Listings/
+RTE/
+DebugConfig/
